@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="982aca10-b1db-49fd-8016-fee275a6129b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cifrado PDF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/environment_setup/iac-pipeline-arm.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MLOps_Workshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MLOps_Workshop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="982aca10-b1db-49fd-8016-fee275a6129b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,14 +54,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20231202_0001",
+    "com.google.cloudcode.ide_session_index": "20231207_0000",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "revert-2-main",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/germaynrivas/Documents/GitHub/MLOps_Workshop/environment_setup",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.python.black.configuration.BlackFormatterConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -82,6 +78,7 @@
   <component name="RunManager">
     <configuration name="cifrado PDF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MLOps_Workshop" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -108,6 +105,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -123,6 +127,7 @@
       <workItem from="1701486561481" duration="1247000" />
       <workItem from="1701568844141" duration="559000" />
       <workItem from="1701569433670" duration="11000" />
+      <workItem from="1701963990325" duration="550000" />
     </task>
     <servers />
   </component>
@@ -134,7 +139,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
